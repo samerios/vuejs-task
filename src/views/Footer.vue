@@ -6,7 +6,7 @@
   </v-footer>
 </template>
 
-  <<script>
+  <script>
   export default {
     name:'FooterView'
   }
